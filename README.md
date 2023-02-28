@@ -7,7 +7,7 @@ https://github.com/wimdeblauwe/blog-example-code/tree/master/todomvc-thymeleaf
 Честно сказать, я сомневалась, что заработает без конфигурации доступа к БД и без какой-либо реализации методов репозитория.
 Но проект работает.
 Собрать и запустить можно через idea либо запустив команды:
-'mvn clean package
-cd target
-java -jar todomvc-0.0.1-SNAPSHOT.jar' 
+<br>'mvn clean package
+<br>cd target
+<br>java -jar todomvc-0.0.1-SNAPSHOT.jar' 
 Надеюсь, что к началу командной работы по проектам отношения со Spring будет у меня получше)
