@@ -1,12 +1,12 @@
-package ru.omjasnikova.springhomework.web;
+package ru.omjasnikova.todomvc.web;
 
 import jakarta.validation.Valid;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import ru.omjasnikova.springhomework.TodoItemNotFoundException;
-import ru.omjasnikova.springhomework.TodoItemRepository;
-import ru.omjasnikova.springhomework.TodoItem;
+import ru.omjasnikova.todomvc.TodoItemNotFoundException;
+import ru.omjasnikova.todomvc.TodoItemRepository;
+import ru.omjasnikova.todomvc.TodoItem;
 
 import java.util.List;
 import java.util.stream.Collectors;

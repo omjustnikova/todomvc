@@ -1,4 +1,4 @@
-package ru.omjasnikova.springhomework.web;
+package ru.omjasnikova.todomvc.web;
 
 import jakarta.validation.constraints.NotBlank;
 

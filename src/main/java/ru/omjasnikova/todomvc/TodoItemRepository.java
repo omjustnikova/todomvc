@@ -1,4 +1,4 @@
-package ru.omjasnikova.springhomework;
+package ru.omjasnikova.todomvc;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
